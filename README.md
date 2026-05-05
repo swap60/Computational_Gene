@@ -179,6 +179,7 @@ Or use this BibTeX:
   note = {Unpublished software}
 }
 ##
+```
 <p align="center">
   <a href="https://github.com/swap60/Computational_Gene/issues">
     <img src="https://img.shields.io/badge/🐛_Report_Issue-red?style=flat-square" alt="Issues">
@@ -187,3 +188,4 @@ Or use this BibTeX:
     <img src="https://img.shields.io/badge/🔀_Fork_Project-blue?style=flat-square" alt="Fork">
   </a>
 </p>
+```
