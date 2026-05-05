@@ -178,7 +178,7 @@ Or use this BibTeX:
   year = {2026},
   note = {Unpublished software}
 }
-##
+
 ```
 <p align="center">
   <a href="https://github.com/swap60/Computational_Gene/issues">
@@ -188,4 +188,4 @@ Or use this BibTeX:
     <img src="https://img.shields.io/badge/🔀_Fork_Project-blue?style=flat-square" alt="Fork">
   </a>
 </p>
-```
+
