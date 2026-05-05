@@ -164,8 +164,6 @@ This work connects **numerical PDE analysis** to **computational biology**:
 
 ## 📚 Citation
 
-## 📚 Citation
-
 If you use this code, please cite the repository:
 
 > swap60. *Computational Gene: Entropy-Stable DNA Sequence Evolution.* 
@@ -173,11 +171,11 @@ If you use this code, please cite the repository:
 
 Or use this BibTeX:
 ```bibtex
-@software{computational_gene_2024,
+@software{computational_gene_2026,
   author = {swap60},
   title = {Computational Gene: Entropy-Stable DNA Sequence Evolution},
   url = {https://github.com/swap60/Computational_Gene},
-  year = {2024},
+  year = {2026},
   note = {Unpublished software}
 }
 
