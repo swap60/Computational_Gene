@@ -1,7 +1,6 @@
 # 🧬 Computational Gene — Entropy-Stable DNA Sequence Evolution
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MATLAB-R2021b+-orange.svg?style=flat-square&logo=mathworks" alt="MATLAB">
   <img src="https://img.shields.io/badge/License-GPL--3.0-blue.svg?style=flat-square" alt="License">
   <img src="https://img.shields.io/badge/Topic-Bioinformatics-green.svg?style=flat-square" alt="Bioinformatics">
   <br>
